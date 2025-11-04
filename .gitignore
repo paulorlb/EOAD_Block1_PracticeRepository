@@ -1,5 +1,5 @@
 *.env
-./data
-./notebooks/previous_year
-./notebooks/quarto
-./log
+/data
+/notebooks/previous_year
+/notebooks/quarto
+/log
