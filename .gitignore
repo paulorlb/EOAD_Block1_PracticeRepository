@@ -1,0 +1,5 @@
+*.env
+# /data
+/notebooks/previous_years
+/notebooks/quarto
+/logs
